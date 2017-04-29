@@ -1,0 +1,23 @@
+html {
+  font-family: Arial; }
+
+.container {
+  border: 1px solid black;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
+
+.my-form,
+h3,
+my-table {
+  width: 100%; }
+
+#cantidadInput {
+  width: 4em; }
+
+#myTable {
+  height: 300px;
+  overflow: auto;
+  display: block; }

@@ -1,4 +1,4 @@
-// Setup and sync
+// Setup an	d sync
 var gulp = require("gulp"),
 	bsync = require("browser-sync").create(),
 	sass = require("gulp-sass"),
